@@ -4,36 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2e69df7719e80f11",
+        "id": "4e10140358b58366",
         "type": "tabs",
         "children": [
           {
-            "id": "598c6cf076dfdd45",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DSA/Java/Images/Pasted image 20250810141438.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250810141438"
-            }
-          },
-          {
-            "id": "89b1de658adda144",
+            "id": "ca6e68f079a98689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Java/Dojo.md",
+                "file": "Dojo/C++/C++ Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dojo"
+              "title": "C++ Dojo"
+            }
+          },
+          {
+            "id": "9c54b35a04c5f692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/Java/Java Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Dojo"
+            }
+          },
+          {
+            "id": "1d35dcc48a06e67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/JavaScript/NodeJS Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NodeJS Dojo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,34 +198,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "598c6cf076dfdd45",
+  "active": "9c54b35a04c5f692",
   "lastOpenFiles": [
-    "DSA/Java/Images/Pasted image 20250810140155.png",
-    "DSA/Java/Images/Pasted image 20250810140137.png",
-    "DSA/Java/Images/Pasted image 20250810135916.png",
-    "DSA/Java/Images/Pasted image 20250810135909.png",
-    "Dojo/C++/Images/Pasted image 20250816115654.png",
-    "Dojo/Java/Images/Pasted image 20250812190605.png",
-    "Dojo/C++/Images/Pasted image 20250816100630.png",
-    "Dojo/C++/Images/Pasted image 20250813152615.png",
-    "Dojo/Java/Images/Pasted image 20250811185051.png",
-    "Dojo/Java/Images/Pasted image 20250812184409.png",
-    "Dojo/Java/Images/Pasted image 20250812190121.png",
-    "Dojo/C++/Dojo.md",
-    "Dojo/Java/Dojo.md",
+    "Dojo/C++/C++ Dojo.md",
+    "Dojo/C++/Images/Pasted image 20250822170957.png",
+    "Dojo/Java/Java Dojo.md",
+    "Dojo/C++/Images/Pasted image 20250822133422.png",
+    "Dojo/C++/Images/Pasted image 20250822130745.png",
+    "Dojo/C++/Images/Pasted image 20250822125730.png",
+    "Dojo/C++/Images/Pasted image 20250822122555.png",
+    "Dojo/Preparation/Preparation for Dojo.md",
+    "Dojo/C++/Images/Pasted image 20250813115034.png",
+    "Dojo/C++/Images/Pasted image 20250821095726.png",
+    "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/C++/Images/Pasted image 20250820224312.png",
+    "Dojo/C++/Images/Pasted image 20250820223653.png",
+    "Dojo/C++/Images/Pasted image 20250820223035.png",
+    "Dojo/Preparation/Images",
+    "Dojo/Preparation",
     "Dojo/C++/Images",
     "Dojo/C++",
     "DSA/Java/DSA.md",
     "DSA/Java/Images",
     "DSA/Java",
     "DSA",
-    "Dojo/JavaScript/Basic Input-Output.md",
     "Dojo/Java/Images",
     "Dojo/Java",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 2 Strings.md",
     "Dojo/JavaScript/Images",
-    "Dojo/JavaScript",
-    "Dojo",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 1 Assignment statement, basic types - int, float, bool.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 2 Improving naive gcd.md",
@@ -226,7 +244,6 @@
     "Swayam Git/Ethical Hacking/Week 2/Lecture 10 IP subnetting.md",
     "Swayam Git/Ethical Hacking/Week 2/Lecture 09 TCP and UDP (Part II).md",
     "Swayam Git/Ethical Hacking/Week 2/Lecture 08 TCP and UDP (Part I).md",
-    "Swayam Git/Ethical Hacking/Week 2/Lecture 07 IP addressing and routing (Part II).md",
-    "Swayam Git/Ethical Hacking/Week 2/Lecture 06 IP addressing and routing (Part I).md"
+    "Swayam Git/Ethical Hacking/Week 2/Lecture 07 IP addressing and routing (Part II).md"
   ]
 }
